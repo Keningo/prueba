@@ -19,7 +19,3 @@
 
 ## Instalación  
 
-1. **Clona el repositorio**:  
-
-   ```bash  
-   git clone https://github.com/tu-nombre-de-usuario/mi-pagina-bonita.git  
